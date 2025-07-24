@@ -1,0 +1,25 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+
+# Ignore Eclipse files
+.project
+.classpath
+.settings/
+
+# Ignore VSCode
+.vscode/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
